@@ -42,7 +42,7 @@ textarea { overflow:auto; vertical-align:top; }
 table { border-collapse:collapse; border-spacing:0; }
 
 /* Basics */
-body { color: #202020; background:#e3dFd5 url(bg.jpg) 27% 0 no-repeat; font-size:1em; line-height:1.4em; font-family:"Helvetica Neue",Arial,sans-serif; }
+body { color: #202020; background:#e3dFd5 url(bg.jpg) 40% 0 no-repeat; font-size:1em; line-height:1.4em; font-family:"Helvetica Neue",Arial,sans-serif; }
 a { color:#0f5f8d; }
 a:hover { color:#555; }
 a.back::before { content:'\00AB\00A0'; }
